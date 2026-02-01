@@ -1,12 +1,24 @@
-## Hi there 👋
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="350" />
 </p>
 
 <br />
+
+## Hi there 👋
+
+
+
+
+
+
+
+
+
+
+
 
 ### 👋 Hi there, I'm Aymane Lazaar
 
