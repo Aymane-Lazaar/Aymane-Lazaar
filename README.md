@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
+
 ### 👋 Hi there, I'm Aymane Lazaar
 
 - 🔭 I’m currently working on **Full-stack Web Applications using React & Laravel**.
