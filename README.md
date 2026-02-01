@@ -1,4 +1,3 @@
-
 <br />
 
 <p align="center">
@@ -8,17 +7,6 @@
 <br />
 
 ## Hi there 👋
-
-
-
-
-
-
-
-
-
-
-
 
 ### 👋 Hi there, I'm Aymane Lazaar
 
