@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Developer working animation](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
+![](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
 
 ### 👋 Hi there, I'm Aymane Lazaar
 
