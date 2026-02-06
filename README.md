@@ -19,7 +19,7 @@
 - ⚡ Fun fact: **I believe that mastering the basics like Memory Management and Algorithms is the shortest "long-cut" to becoming a world-class engineer.**
 
 
-<div align="center">
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aymanlazar75@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-lazaar/)
@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Lazaar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<div align="center">
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Aymane-Lazaar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
