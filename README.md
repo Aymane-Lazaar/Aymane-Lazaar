@@ -29,15 +29,11 @@
 
 <div align="center">
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aymane-Lazaar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aymane-Lazaar&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Lazaar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Aymane-Lazaar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
